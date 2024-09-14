@@ -32,5 +32,7 @@ public class Main {
         String input = scanner.nextLine();
         System.out.println("Привет " + input);
 
+
+        System.out.println("hi");
     }
 }
